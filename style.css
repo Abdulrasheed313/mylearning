@@ -1,0 +1,167 @@
+
+  *{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.ul li {
+    list-style: none;
+
+}
+a {
+    text-decoration: none;
+}
+.topbar{
+    background-color: #316dc3;
+    margin: o;
+    padding: 15px;
+    color: white;
+}
+.topbar i {
+    padding: 0 8px;
+
+}
+.containar{
+    width: 1200px;
+    margin: 0 auto;
+}
+.show-in-line {
+    display: inline-block;
+ }
+.social{
+    float: left;
+}
+.mono{
+    float: left;
+    margin-left: 170px;
+    
+}
+.head-button{
+    float: right;
+
+}
+.clear{
+    clear: both;
+}
+.head-button a {
+    width: auto;
+    background-color: #eee;
+    color: black;
+    padding: 10px 25px;
+    text-align: center;
+    font-size: 10px;
+}
+.header{
+    background-color:#f7f8fa;
+}
+
+.logo{
+
+    float: left;
+}
+.manu{
+    float: right;
+    margin-top: 26px;
+}
+.logo img{
+    width: 230px;
+}
+.manu ul li {
+    display: inline;
+    ;
+}
+.sticker{
+    margin: 10px;
+}
+.manu ul li a {
+padding: 5px 15px;
+color: #000;
+}
+.manu ul li a:hover{
+    background-color: blue;
+    color: white;
+    border-radius: 25px;
+}
+marquee{
+    background-color: #316dc3;
+    color: white;
+    margin: auto;
+    padding: 3px ;
+
+    }
+    .intro{
+        background-color: #f7f8fa;
+    }
+h2.main-title{
+    text-align: center;
+    margin: 30px 0;
+    color:  #316dc3;
+
+    
+}
+.second-color{
+    color:#60b843 ;
+}    
+.new-containar{
+ width: 900px;
+ margin:50px auto; 
+ background-color: #f7f8fa;
+   
+}
+
+.calculator{
+background-color: #316dc3;
+color: white;
+padding: 30px 20px;
+text-align: center;
+
+}
+.can-containar {
+    margin: o auto;
+    width: 1200px; 
+    }
+    .doing
+    {
+        background-color: #f7f8fa;
+    }
+.separator{
+    width: 70px;
+    height: 3px;
+    background-color:green;
+    display: block;
+}
+.ev-containar{
+    width: 1200px;
+    margin:40px auto;
+}
+.events marquee
+{
+    background-color: white;
+    color: black;
+    height: 200px;
+}
+.ga-containar{
+    width: 1200px;
+    margin: auto;
+}
+.con-containar{
+    margin:40px auto;
+    background-color: #25272e;
+    color: whitesmoke;
+    padding: 30px 40px;
+    
+}
+.con-containar i {
+    color: yellowgreen;
+text-align: center;    
+}
+.contact h5 {
+text color: white;
+}
+.copy-containar{
+    width: 1200;
+    margin: o;
+    background-color: blue;
+    color: white;
+    padding: 0 ;
+}
